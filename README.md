@@ -1,2 +1,3 @@
-# react-ecommerce-prototype
-E-Commerce template using React and related technologies
+# React E-Commerce Prototype
+
+E-Commerce template using React and related technologies.
